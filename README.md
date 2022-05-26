@@ -1,2 +1,2 @@
-# 7shep.github.io
-grade 10 website
+# shep.github.io
+Grade 10 Website
